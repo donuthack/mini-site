@@ -1,0 +1,31 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container {
+    display: flex;  
+    font-weight: bold;
+    text-align: center;
+  }
+
+.header {
+    background: #1FD098;
+    padding: 100px;
+    text-align: center;
+    columns: #333333;  
+}
+
+.scooby {
+    border: bottom;
+    background: #1FD04A;
+    padding: 100px;
+}
+
+.short-scooby-info {
+    background: #1FC3D0;
+    padding: 70px;
+    text-align: center;
+    flex-direction: row;
+    justify-content:flex-end;
+}
